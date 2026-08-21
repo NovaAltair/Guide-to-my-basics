@@ -1,4 +1,4 @@
 # Guide-to-my-basics
 This repository is made to understand the basics and experiment 
 <br>
-Author is Rishitha 
+Author is Rishitha Sai Puralasetty 
